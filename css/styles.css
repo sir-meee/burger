@@ -10,6 +10,18 @@
   background: linear-gradient(#bc581e, #e27b36); 
   border-radius: 50% 50% 0 0;
   margin: 2% auto;
+  position: relative;
+}
+
+.seeds{
+  position: absolute;
+  width: 10%;
+  height: 15%;
+  background-color: white;
+  left: 30%;
+  top: 50%;
+  border-radius: 40%;
+  transform: rotate(-20deg);
 }
 
 .salad{
