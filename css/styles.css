@@ -9,14 +9,14 @@
   width: 80%;
   background: linear-gradient(#bc581e, #e27b36); 
   border-radius: 50% 50% 0 0;
-  margin: auto;
+  margin: 2% auto;
 }
 
 .salad{
   height: 7%;
   width: 90%;
   background: linear-gradient(#228c1d, #91ce50);
-  margin: auto;
+  margin: 2% auto;
 
 
 }
