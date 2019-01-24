@@ -43,10 +43,34 @@
   position: absolute;
   background-color: white;
   left: 180%;
-  top: -50%;
+  top: 10%;
+  border-radius: 40%;
+  transform: rotate(130deg);
+}
+
+.seeds2{
+  position: absolute;
+  width: 10%;
+  height: 15%;
+  background-color: white;
+  left: 60%;
+  top: 50%;
+  border-radius: 40%;
+  transform: rotate(10deg);
+}
+
+.seeds2:after{
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: white;
+  left: 170%;
+  top: -130%;
   border-radius: 40%;
   transform: rotate(0deg);
 }
+
 
 .salad{
   height: 7%;
